@@ -2,9 +2,9 @@ Olá, eu sou a Anna Drumond, seja muito bem vindo ao meu perfil GitHub 👋👋!
 
 
 
-Eu sou recém-formada pela Universidade de Coimbra (Portugal) no curso de programação em Java - Acertar o Rumo 👯                                                          
+Eu sou recém-formada pela Universidade de Coimbra (Portugal) no curso de programação em Java - Acertar o Rumo 👯                                                        <img align="right" alt="Rafa-pic" height="120" style="border-radius:250px;" src="https://i.picasion.com/pic92/a7e92ab2044d57cda3212fa731891432.gif"> 
 🌱 Atualmente estou estudando React JS, porque a vida é aprender cada dia mais e buscar novos horizontes 😄 🔭
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/a7e92ab2044d57cda3212fa731891432.gif">
+
 ##
 O que aprendi até o momento:
 <div dir="auto">
