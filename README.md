@@ -4,19 +4,22 @@ Olá, eu sou a Anna Drumond, seja muito bem vindo ao meu perfil GitHub 👋👋!
 
 Eu sou recém-formada pela Universidade de Coimbra (Portugal) no curso de programação em Java - Acertar o Rumo 👯                                                          
 🌱 Atualmente estou estudando React JS, porque a vida é aprender cada dia mais e buscar novos horizontes 😄 🔭
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/a7e92ab2044d57cda3212fa731891432.gif">
 ##
-Tecnologias que aprendi até o momento:
+O que aprendi até o momento:
 <div dir="auto">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="max-width: 100%;">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 </div>
 
 ##
-Estou aprendendo no momento:
+Estou me aprofundando melhor:
 <div dir="auto">
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
+<img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="max-width: 100%;">
 </div>
 
   ##
