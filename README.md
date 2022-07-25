@@ -22,19 +22,9 @@ Estou me aprofundando melhor:
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="max-width: 100%;">
 </div>
 
-<br>
-<div align="center">
-  <a href="https://github.com/AnnaDrumond">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaDrumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
   ##
 Para falar comigo ou saber um pouco mais sobre mim:
 <div> 
   <a href = "mailto:annahelena27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anna-drumond-71b93958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/AnnaDrumond/AnnaDrumond/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
