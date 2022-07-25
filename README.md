@@ -1,4 +1,4 @@
-Olá, eu sou a Anna Drumond, seja muito bem vindo ao meu perfil GitHub 👋👋!!!
+Olá, eu sou a Anna Drumond, seja muito bem vindo ao meu perfil 👋👋!!!
 <img align="right" alt="Rafa-pic" height="120" style="border-radius:250px;" src="https://i.picasion.com/pic92/a7e92ab2044d57cda3212fa731891432.gif"> 
 
 
