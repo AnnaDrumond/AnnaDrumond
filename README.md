@@ -5,12 +5,6 @@ Olá, eu sou a Anna Drumond, seja muito bem vindo ao meu perfil 👋👋!!!
 Eu sou recém-formada pela Universidade de Coimbra no curso de programação em Java - Acertar o Rumo 👯                                                        
 🌱 Atualmente estou estudando React JS, porque a vida é aprender cada dia mais e buscar novos horizontes 🔭
 
-<div align="center">
-  <a href="https://github.com/AnnaDrumond">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaDrumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ##
 O que aprendi até o momento:
 <div dir="auto">
