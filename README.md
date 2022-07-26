@@ -24,6 +24,9 @@ Para saber um pouco mais sobre mim:
 <div> 
   <a href="https://www.linkedin.com/in/anna-drumond-71b93958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+O que ando fazendo na minha caminhada:
 <div align="center">
   <a href="https://github.com/AnnaDrumond">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnnaDrumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
