@@ -2,11 +2,6 @@ Olá 🙋🏻‍♀️ , eu sou a Anna Drumond, seja muito bem vindo ao meu perf
 ##
 Eu sou recém-formada 🏆 pela Universidade de Coimbra no curso de programação em Java Acertar o Rumo 😍                                                     
 🌱 Atualmente estou estudando para conhecer melhor React JS e Redux 🤓, porque a vida é aprender cada dia mais e buscar novos horizontes 💡📎🌱🚀
-<div align="center">
-  <a href="https://github.com/AnnaDrumond">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnnaDrumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ##
 O que aprendi até o momento:
@@ -29,6 +24,11 @@ Já conheço um pouco, mas estou me aprofundando melhor:
 Para saber um pouco mais sobre mim:
 <div> 
   <a href="https://www.linkedin.com/in/anna-drumond-71b93958/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<div align="center">
+  <a href="https://github.com/AnnaDrumond">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnnaDrumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
