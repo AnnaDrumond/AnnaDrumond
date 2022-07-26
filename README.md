@@ -1,6 +1,6 @@
-Olá 🙋🏻‍♀️ , eu sou a Anna Drumond, seja muito bem vindo ao meu perfil!!! 😁👋👋
+Olá 🙋🏻‍♀️ , eu sou a Anna Drumond, seja muito bem vindo ao meu perfil!!! 😁👋👋 <img align="right" alt="Rafa-pic" height="90" style="border-radius:250px;" src="https://i.picasion.com/pic92/a7e92ab2044d57cda3212fa731891432.gif"> 
 ##
-<img align="right" alt="Rafa-pic" height="120" style="border-radius:250px;" src="https://i.picasion.com/pic92/a7e92ab2044d57cda3212fa731891432.gif"> 
+
 Eu sou recém-formada 🏆 pela Universidade de Coimbra no curso de programação em Java Acertar o Rumo 😍                                                     
 🌱 Atualmente estou estudando para conhecer melhor React JS e Redux 🤓, porque a vida é aprender cada dia mais e buscar novos horizontes 💡📎🌱🚀
 
@@ -29,8 +29,8 @@ Para saber um pouco mais sobre mim:
 
 <div align="center">
   <a href="https://github.com/AnnaDrumond">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaDrumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=AnnaDrumond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
