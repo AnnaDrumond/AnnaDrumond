@@ -1,6 +1,6 @@
 Olá 🙋🏻‍♀️ , eu sou a Anna Drumond, seja muito bem vindo ao meu perfil!!! 😁👋👋 <br> <img align="right" alt="Rafa-pic" height="90" style="border-radius:250px;" src="https://i.picasion.com/pic92/a7e92ab2044d57cda3212fa731891432.gif"> 
 Eu sou formada 🏆 pela Universidade de Coimbra no curso de programação em Java Acertar o Rumo 😍                                                     
-🌱 Atualmente sou estagiária na empresa AIRC Coimbra, porque a vida é aprender cada dia mais e buscar novos horizontes 💡📎🌱🚀
+🌱 Desde setembro de 2022 sou estagiária na empresa AIRC Coimbra💡📎🌱🚀
 
 ##
 Já nos conhecemos bem:
@@ -16,7 +16,7 @@ Já nos conhecemos bem:
 </div>
 <br>
 
-Minha jornada em 2022 envolve:
+O que ando a desenvolver no emprego atual:
 <div dir="auto">
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;">
