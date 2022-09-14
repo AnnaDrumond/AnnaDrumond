@@ -26,14 +26,6 @@ Estamos nos conhecendo em 2022:
 </div>
 <br>
 
-Em breve pretendo me aprofundar mais:
-<div dir="auto">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="max-width: 100%;">
-  <br>
-</div>
-<br>
-
   ##
 Para saber um pouco mais sobre mim:
 <div> 
