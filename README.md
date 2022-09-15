@@ -17,7 +17,7 @@ Já nos conhecemos bem:
 </div>
 <br>
 
-O que ando a desenvolver no emprego atual:
+Linguagens e ferramentas que tenho aprendido no emprego atual:
 <br>
 <div dir="auto">
   <img src="https://img.shields.io/badge/ANGULAR-%20?style=flat-square&logo=angular&logoColor=white&color=DC143C" height="20" />
@@ -30,6 +30,8 @@ O que ando a desenvolver no emprego atual:
   <img src="https://img.shields.io/badge/CONFLUENCE-%20?style=flat-square&logo=confluence&logoColor=white&color=008000" height="20" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=blue" height="20" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=blueviolet" height="20"/>
+   <img src="https://img.shields.io/badge/OUTLOOK-%20?style=flat-square&logo=outlook&logoColor=white&color=FF4500" height="20"/>
+    <img src="https://img.shields.io/badge/MICROSOFT TEAMS-%20?style=flat-square&logo=teams&logoColor=white&color=DC143C" height="20" />
 </div>
 
   ##
