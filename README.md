@@ -7,11 +7,11 @@ Já nos conhecemos bem:
 <br>
 <div dir="auto">
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=DC143C" height="20" />
-  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=#bd93f9" height="20" />
+  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=008000" height="20" />
   <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=JAVA&logoColor=white&color=blue" height="20" />
   <img src="https://img.shields.io/badge/MYSQL-%20?style=flat-square&logo=mysql&logoColor=white&color=blueviolet" height="20"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=yellowgreen" height="20"/>
-  <img src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=visualstudiocode&logoColor=white&color=ff69b4" height="20" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=FFD700&color=black" height="20"/>
+  <img src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=visualstudiocode&logoColor=white&color=FF4500" height="20" />
   <img src="https://img.shields.io/badge/ECLIPSE-%20?style=flat-square&logo=eclipse&logoColor=white&color=DC143C" height="20" />
   <br>
 </div>
@@ -21,13 +21,13 @@ O que ando a desenvolver no emprego atual:
 <br>
 <div dir="auto">
   <img src="https://img.shields.io/badge/ANGULAR-%20?style=flat-square&logo=angular&logoColor=white&color=DC143C" height="20" />
-  <img src="https://img.shields.io/badge/SPRING-%20?style=flat-square&logo=spring&logoColor=white&color=#bd93f9" height="20" />
+  <img src="https://img.shields.io/badge/SPRING-%20?style=flat-square&logo=spring&logoColor=white&color=008000" height="20" />
   <img src="https://img.shields.io/badge/POSTGRESQL-%20?style=flat-square&logo=postgresql&logoColor=white&color=blue" height="20" />
   <img src="https://img.shields.io/badge/DOCKER-%20?style=flat-square&logo=docker&logoColor=white&color=blueviolet" height="20"/>
-  <img src="https://img.shields.io/badge/LINUX-%20?style=flat-square&logo=linux&logoColor=white&color=yellowgreen" height="20"/>
-  <img src="https://img.shields.io/badge/BITBUCKET-%20?style=flat-square&logo=bitbucket&logoColor=white&color=ff69b4" height="20"/>
+  <img src="https://img.shields.io/badge/LINUX-%20?style=flat-square&logo=linux&logoColor=FFD700&color=black" height="20"/>
+  <img src="https://img.shields.io/badge/BITBUCKET-%20?style=flat-square&logo=bitbucket&logoColor=white&color=FF4500" height="20"/>
   <img src="https://img.shields.io/badge/JIRA-%20?style=flat-square&logo=jira&logoColor=white&color=DC143C" height="20" />
-  <img src="https://img.shields.io/badge/CONFLUENCE-%20?style=flat-square&logo=confluence&logoColor=white&color=#bd93f9" height="20" />
+  <img src="https://img.shields.io/badge/CONFLUENCE-%20?style=flat-square&logo=confluence&logoColor=white&color=008000" height="20" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=blue" height="20" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=blueviolet" height="20"/>
 </div>
