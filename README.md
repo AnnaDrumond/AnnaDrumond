@@ -4,30 +4,34 @@ Eu sou formada 🏆 pela Universidade de Coimbra no curso de programação em Ja
 
 ##
 Já nos conhecemos bem:
+<br>
 <div dir="auto">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"> 
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width: 100%;"> 
+  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=red" height="20" />
+  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=#bd93f9" height="20" />
+  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=blue" height="20" />
+  <img src="https://img.shields.io/badge/MYSQL-%20?style=flat-square&logo=mysql&logoColor=white&color=blueviolet" height="20"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=yellowgreen" height="20"/>
+   <img src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=vscode=html5&logoColor=white&color=ff69b4" height="20" />
+     <img src="https://img.shields.io/badge/ECLIPSE-%20?style=flat-square&logo=eclipse&logoColor=white&color=red" height="20" />
   <br>
 </div>
 <br>
 
 O que ando a desenvolver no emprego atual:
+<br>
 <div dir="auto">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="max-width: 100%;">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/ANGULAR-%20?style=flat-square&logo=angular&logoColor=white&color=red" height="20" />
+    <img src="https://img.shields.io/badge/SPRING-%20?style=flat-square&logo=spring&logoColor=white&color=#bd93f9" height="20" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-%20?style=flat-square&logo=postgresql&logoColor=white&color=blue" height="20" />
+  <img src="https://img.shields.io/badge/DOCKER-%20?style=flat-square&logo=docker&logoColor=white&color=blueviolet" height="20"/>
+  <img src="https://img.shields.io/badge/LINUX-%20?style=flat-square&logo=linux&logoColor=white&color=yellowgreen" height="20"/>
+    <img src="https://img.shields.io/badge/BITBUCKET-%20?style=flat-square&logo=bitbucket&logoColor=white&color=ff69b4" height="20"/>
+   
+   <img src="https://img.shields.io/badge/JIRA-%20?style=flat-square&logo=jira&logoColor=white&color=red" height="20" />
+    <img src="https://img.shields.io/badge/CONFLUENCE-%20?style=flat-square&logo=confluence&logoColor=white&color=#bd93f9" height="20" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=blue" height="20" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=blueviolet" height="20"/>
+
 </div>
 <br>
 
@@ -41,7 +45,7 @@ Para saber um pouco mais sobre mim:
 O que ando fazendo na minha caminhada:
 <div>
   <a href="https://github.com/AnnaDrumond">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDrumond&layout=compact&theme=dracula"/>
 </div>
 
 
