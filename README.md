@@ -17,7 +17,7 @@ Já nos conhecemos bem:
 </div>
 <br>
 
-Linguagens e ferramentas que tenho aprendido no emprego atual:
+Linguagens e ferramentas que uso em meu emprego atual:
 <br>
 <div dir="auto">
   <img src="https://img.shields.io/badge/ANGULAR-%20?style=flat-square&logo=angular&logoColor=white&color=DC143C" height="20" />
