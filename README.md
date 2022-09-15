@@ -33,7 +33,7 @@ O que ando a desenvolver no emprego atual:
   <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=blueviolet" height="20"/>
 
 </div>
-<br>
+
 
   ##
 Para saber um pouco mais sobre mim:
