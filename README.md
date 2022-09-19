@@ -33,6 +33,7 @@ Linguagens e ferramentas que uso em meu emprego atual:
    <img src="https://img.shields.io/badge/OUTLOOK-%20?style=flat-square&logo=outlook&logoColor=white&color=FF4500" height="20"/>
     <img src="https://img.shields.io/badge/MICROSOFT TEAMS-%20?style=flat-square&logo=teams&logoColor=white&color=DC143C" height="20" />
     <img src="https://img.shields.io/badge/LOMBOK-%20?style=flat-square&logo=lombok&logoColor=white&color=008000" height="20" />
+      <img src="https://img.shields.io/badge/SASS-%20?style=flat-square&logo=sass&logoColor=white&color=blue" height="20" />
 </div>
 
   ##
