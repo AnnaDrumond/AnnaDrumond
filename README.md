@@ -11,7 +11,6 @@ Já nos conhecemos bem:
   <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=JAVA&logoColor=white&color=blue" height="20" />
   <img src="https://img.shields.io/badge/MYSQL-%20?style=flat-square&logo=mysql&logoColor=white&color=blueviolet" height="20"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=FFD700&color=black" height="20"/>
-  <img src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=visualstudiocode&logoColor=white&color=FF4500" height="20" />
   <img src="https://img.shields.io/badge/ECLIPSE-%20?style=flat-square&logo=eclipse&logoColor=white&color=DC143C" height="20" />
   <br>
 </div>
@@ -35,6 +34,9 @@ Linguagens e ferramentas que uso em meu emprego atual:
     <img src="https://img.shields.io/badge/LOMBOK-%20?style=flat-square&logo=lombok&logoColor=white&color=008000" height="20" />
       <img src="https://img.shields.io/badge/SASS-%20?style=flat-square&logo=sass&logoColor=white&color=blue" height="20" />
         <img src="https://img.shields.io/badge/GIT-%20?style=flat-square&logo=git&logoColor=white&color=blueviolet" height="20"/>
+          <img src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=visualstudiocode&logoColor=FFD700&color=black" height="20" />
+            <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%20?style=flat-square&logo=intellij-idea&logoColor=white&color=FF4500" height="20"/>
+        
 </div>
 
   ##
