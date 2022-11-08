@@ -3,19 +3,6 @@ Eu sou formada 🏆 pela Universidade de Coimbra no curso de programação em Ja
 🌱 Desde setembro de 2022 sou estagiária na empresa AIRC Coimbra💡📎🌱🚀
 
 ##
-Já nos conhecemos bem:
-<br>
-<div dir="auto">
-  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=DC143C" height="20" />
-  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=008000" height="20" />
-  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=JAVA&logoColor=white&color=blue" height="20" />
-  <img src="https://img.shields.io/badge/MYSQL-%20?style=flat-square&logo=mysql&logoColor=white&color=blueviolet" height="20"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=FFD700&color=black" height="20"/>
-  <img src="https://img.shields.io/badge/ECLIPSE-%20?style=flat-square&logo=eclipse&logoColor=white&color=DC143C" height="20" />
-  <br>
-</div>
-<br>
-
 Linguagens e ferramentas que uso em meu emprego atual:
 <br>
 <div dir="auto">
@@ -36,6 +23,12 @@ Linguagens e ferramentas que uso em meu emprego atual:
         <img src="https://img.shields.io/badge/GIT-%20?style=flat-square&logo=git&logoColor=white&color=blueviolet" height="20"/>
           <img src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=visualstudiocode&logoColor=FFD700&color=black" height="20" />
             <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%20?style=flat-square&logo=intellij-idea&logoColor=white&color=FF4500" height="20"/>
+    <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=DC143C" height="20" />
+  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=008000" height="20" />
+  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=JAVA&logoColor=white&color=blue" height="20" />
+  <img src="https://img.shields.io/badge/MYSQL-%20?style=flat-square&logo=mysql&logoColor=white&color=blueviolet" height="20"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=FFD700&color=black" height="20"/>
+  <img src="https://img.shields.io/badge/ECLIPSE-%20?style=flat-square&logo=eclipse&logoColor=white&color=DC143C" height="20" />
         
 </div>
 
