@@ -3,7 +3,7 @@ Eu sou formada 🏆 pela Universidade de Coimbra no curso de programação em Ja
 🌱 Desde setembro de 2022 sou estagiária na empresa AIRC Coimbra💡📎🌱🚀
 
 ##
-Linguagens e ferramentas que uso em meu emprego atual:
+Linguagens e ferramentas que tenho utilizado no estágio:
 <br>
 <div dir="auto">
   <img src="https://img.shields.io/badge/ANGULAR-%20?style=flat-square&logo=angular&logoColor=white&color=DC143C" height="20" />
