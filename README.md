@@ -30,7 +30,7 @@ Linguagens e ferramentas que uso em meu emprego atual:
   <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=FFD700&color=black" height="20"/>
   <img src="https://img.shields.io/badge/ECLIPSE-%20?style=flat-square&logo=eclipse&logoColor=white&color=DC143C" height="20" />
    <img src="https://img.shields.io/badge/CUCUMBER-%20?style=flat-square&logo=cucumber&logoColor=white&color=008000" height="20" />
-  <img src="https://img.shields.io/badge/JUNIT - MOCKITO-%20?style=flat-square&logo=junit&logoColor=white&color=blue" height="20" />
+  <img src="https://img.shields.io/badge/JUNIT-MOCKITO-%20?style=flat-square&logo=junit&logoColor=white&color=blue" height="20" />
         
 </div>
 
