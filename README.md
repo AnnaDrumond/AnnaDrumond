@@ -19,7 +19,7 @@ Linguagens e ferramentas que tenho utilizado no estágio:
    <img src="https://img.shields.io/badge/OUTLOOK-%20?style=flat-square&logo=outlook&logoColor=white&color=FF4500" height="20"/>
     <img src="https://img.shields.io/badge/MICROSOFT TEAMS-%20?style=flat-square&logo=teams&logoColor=white&color=DC143C" height="20" />
     <img src="https://img.shields.io/badge/LOMBOK-%20?style=flat-square&logo=lombok&logoColor=white&color=008000" height="20" />
-      <img src="https://img.shields.io/badge/SASS-%20?style=flat-square&logo=sass&logoColor=white&color=blue" height="20" />
+      <img src="https://img.shields.io/badge/SCSS-%20?style=flat-square&logo=scss&logoColor=white&color=blue" height="20" />
         <img src="https://img.shields.io/badge/GIT-%20?style=flat-square&logo=git&logoColor=white&color=blueviolet" height="20"/>
           <img src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=visualstudiocode&logoColor=FFD700&color=black" height="20" />
             <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%20?style=flat-square&logo=intellij-idea&logoColor=white&color=FF4500" height="20"/>
